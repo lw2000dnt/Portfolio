@@ -1,0 +1,79 @@
+body {
+    background-color: black;
+  }
+  #row {
+    position: absolute;
+  }
+  .block {
+    height: 200px;
+    width: 200px;
+    background-image: linear-gradient(to right, #eeffe6, #bbff99);
+    position: absolute;
+    border-radius: 50%;
+  }
+  .blockk {
+    height: 200px;
+    width: 200px;
+    background-image: linear-gradient(to right, #e6ffff, #99ffff);
+    position: absolute;
+    top: 200px;
+    border-radius: 50%;
+  }
+  .blockkk {
+    height: 200px;
+    width: 200px;
+    background-image: linear-gradient(to right, #ffe6ee, #ff99bb);
+    position: absolute;
+    top: 200px;
+    border-radius: 50%;
+  }
+  .bloc{
+    height: 200px;
+    width: 200px;
+  background-image: linear-gradient(to right, #aaff80, #77ff33);  
+    position: absolute;
+    left: 200px;
+    top: -400px;
+    border-radius: 50%;
+  }
+  .blocc{
+    height: 200px;
+    width: 200px;
+    background-image: linear-gradient(to right, #80ffff, #33ffff);
+    position: absolute;
+    top: 200px;
+    border-radius: 50%;
+  }
+  .bloccc{
+    height: 200px;
+    width: 200px;
+     background-image: linear-gradient(to right, #ff80aa, #ff3377);
+    position: absolute;
+    top: 200px;
+    border-radius: 50%;
+  }
+  .blo{
+    height: 200px;
+    width: 200px;
+    background-image: linear-gradient(to right, #66ff1a, #44cc00);
+    position: absolute;
+    left: 200px;
+    top: -400px;
+    border-radius: 50%;
+  }
+  .bloo{
+    height: 200px;
+    width: 200px;
+    background-image: linear-gradient(to right, #1affff, #00cccc);
+    position: absolute;
+    top: 200px;
+    border-radius: 50%;
+  }
+  .blooo{
+    height: 200px;
+    width: 200px;
+   background-image: linear-gradient(to right, #ff1a66, #cc0044);
+    position: absolute;
+    top: 200px;
+    border-radius: 50%;
+  }
